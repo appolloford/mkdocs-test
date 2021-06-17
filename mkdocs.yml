@@ -1,0 +1,11 @@
+site_name: Naunet Astrochemistry Tool
+
+theme:
+  name: "material"
+
+plugins:
+  - search
+  - mkdocstrings
+
+nav:
+  - Home: index.md
